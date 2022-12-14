@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'Apollo1 Agent Pool'
+  name: 'djhitpro Agent Pool'
 
 variables:
   solution: '**/*.sln'
